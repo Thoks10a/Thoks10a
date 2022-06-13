@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/edududuribeiro/"><i>Nicholas Isola da Silva</i></a> 😃️</h1>
+  <h1 align="center">Oi Tudo bem? Eu sou o <a href="[https://www.linkedin.com/in/edududuribeiro/](https://www.linkedin.com/in/nicholas-silva-8100a2184/)"><i>Nicholas Isola da Silva</i></a> 😃️</h1>
   <p align="center">Estudo Desenvolvimento Mobile Android com Kotlin e Java (Futuramente pretendo estudar Flutter) e atualmente estou procurando um emprego.<br>
 </div>
 
@@ -17,7 +17,7 @@
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <!-- <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
   <img align="center" alt="Redux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
