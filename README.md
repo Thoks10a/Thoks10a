@@ -1,6 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nicholas-silva-8100a2184/"><i>Nicholas Isola da Silva</i></a> 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Mobile Android com Kotlin e Java (Futuramente pretendo estudar Flutter) e atualmente estou procurando um emprego.<br>
+  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nicholas-silva-8100a2184/"><i>Nicholas Isola da Silva</i></a> 😃️</h1>
 </div>
 
 
