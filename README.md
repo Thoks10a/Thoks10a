@@ -10,76 +10,76 @@
 
 <h1>👋 Olá, eu sou Desenvolvedor Java</h1>
 
-    <p>
-        Sou desenvolvedor de software com foco em <strong>Java e arquitetura de microserviços</strong>,
-        atuando no desenvolvimento de soluções escaláveis, resilientes e orientadas a negócios.
-        Tenho experiência com <strong>bancos de dados, cloud computing</strong> e boas práticas de engenharia de software.
-    </p>
+  <p>
+      Sou desenvolvedor de software com foco em <strong>Java e arquitetura de microserviços</strong>,
+      atuando no desenvolvimento de soluções escaláveis, resilientes e orientadas a negócios.
+      Tenho experiência com <strong>bancos de dados, cloud computing</strong> e boas práticas de engenharia de software.
+  </p>
 
-    <hr>
+  <hr>
 
-    <h2>🚀 Tecnologias & Ferramentas</h2>
+  <h2>🚀 Tecnologias & Ferramentas</h2>
 
-    <h3>💻 Backend</h3>
-    <ul>
-        <li>Java (8+, 11, 17)</li>
-        <li>Spring Boot, Spring Cloud</li>
-        <li>APIs RESTful</li>
-        <li>Arquitetura de Microserviços</li>
-        <li>Clean Code & SOLID</li>
-    </ul>
+  <h3>💻 Backend</h3>
+  <ul>
+      <li>Java (8+, 11, 17)</li>
+      <li>Spring Boot, Spring Cloud</li>
+      <li>APIs RESTful</li>
+      <li>Arquitetura de Microserviços</li>
+      <li>Clean Code & SOLID</li>
+  </ul>
 
-    <h3>🗄️ Bancos de Dados</h3>
-    <ul>
-        <li>PostgreSQL</li>
-        <li>MySQL</li>
-        <li>Oracle</li>
-        <li>MongoDB</li>
-        <li>JPA / Hibernate</li>
-    </ul>
+  <h3>🗄️ Bancos de Dados</h3>
+  <ul>
+      <li>PostgreSQL</li>
+      <li>MySQL</li>
+      <li>Oracle</li>
+      <li>MongoDB</li>
+      <li>JPA / Hibernate</li>
+  </ul>
 
-    <h3>☁️ Cloud & DevOps</h3>
-    <ul>
-        <li>AWS / Azure / GCP</li>
-        <li>Docker</li>
-        <li>Kubernetes</li>
-        <li>CI/CD</li>
-        <li>Observabilidade (Logs, Métricas, Tracing)</li>
-    </ul>
+  <h3>☁️ Cloud & DevOps</h3>
+  <ul>
+      <li>AWS / Azure / GCP</li>
+      <li>Docker</li>
+      <li>Kubernetes</li>
+      <li>CI/CD</li>
+      <li>Observabilidade (Logs, Métricas, Tracing)</li>
+  </ul>
 
-    <h3>🧪 Qualidade & Boas Práticas</h3>
-    <ul>
-        <li>Testes Unitários e de Integração</li>
-        <li>JUnit / Mockito</li>
-        <li>Versionamento com Git</li>
-        <li>Code Review</li>
-    </ul>
+  <h3>🧪 Qualidade & Boas Práticas</h3>
+  <ul>
+      <li>Testes Unitários e de Integração</li>
+      <li>JUnit / Mockito</li>
+      <li>Versionamento com Git</li>
+      <li>Code Review</li>
+  </ul>
 
-    <hr>
+  <hr>
 
-    <h2>📌 O que eu faço</h2>
-    <ul>
-        <li>Desenvolvimento de APIs escaláveis e seguras</li>
-        <li>Criação e manutenção de microserviços</li>
-        <li>Integração entre sistemas</li>
-        <li>Modelagem de dados e otimização de performance</li>
-        <li>Atuação em ambientes cloud</li>
-    </ul>
+  <h2>📌 O que eu faço</h2>
+  <ul>
+      <li>Desenvolvimento de APIs escaláveis e seguras</li>
+      <li>Criação e manutenção de microserviços</li>
+      <li>Integração entre sistemas</li>
+      <li>Modelagem de dados e otimização de performance</li>
+      <li>Atuação em ambientes cloud</li>
+  </ul>
 
-    <hr>
+  <hr>
 
-    <h2>📫 Contato</h2>
-    <p>
-        💼 LinkedIn: <strong>linkedin.com/in/seu-perfil</strong><br>
-        📧 Email: <strong>seuemail@email.com</strong><br>
-        💻 GitHub: <strong>github.com/seu-usuario</strong>
-    </p>
+  <h2>📫 Contato</h2>
+  <p>
+      💼 LinkedIn: <strong>linkedin.com/in/seu-perfil</strong><br>
+      📧 Email: <strong>seuemail@email.com</strong><br>
+      💻 GitHub: <strong>github.com/seu-usuario</strong>
+  </p>
 
-    <hr>
+  <hr>
 
-    <p>
-        <em>"Sempre em busca de aprendizado contínuo e soluções simples para problemas complexos."</em>
-    </p>
+  <p>
+      <em>"Sempre em busca de aprendizado contínuo e soluções simples para problemas complexos."</em>
+  </p>
 
 <div align="center">
  <!-- <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
