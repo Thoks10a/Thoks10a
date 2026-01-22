@@ -68,13 +68,6 @@
 
   <hr>
 
-  <h2>📫 Contato</h2>
-  <p>
-      💼 LinkedIn: <strong>linkedin.com/in/seu-perfil</strong><br>
-      📧 Email: <strong>seuemail@email.com</strong><br>
-      💻 GitHub: <strong>github.com/seu-usuario</strong>
-  </p>
-
   <hr>
 
   <p>
