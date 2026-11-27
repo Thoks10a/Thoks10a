@@ -1,89 +1,68 @@
-<div>
-  <h1 align="center">Oi, Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/nicholas-silva-8100a2184/"><i>Nicholas Isola da Silva</i></a> 😃️</h1>
+<div align="center">
+
+# Nicholas Isola da Silva
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=480&lines=Blue+Team+em+forma%C3%A7%C3%A3o;Suporte+de+TI+%E2%86%92+Ciberseguran%C3%A7a;Automa%C3%A7%C3%A3o+com+Python" alt="Blue Team em formação · Suporte de TI → Cibersegurança · Automação com Python" />
+
 </div>
 
+---
 
-<!-- <h1 align="center"> 
-  Trybe
-</h1>
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
+### 🛡️ Sobre mim
 
-<h1>👋 Olá, eu sou Desenvolvedor Java</h1>
+Atuo no **Suporte de TI da SPTrans**, cuidando da manutenção de computadores e do atendimento de chamados.
+Estou em transição para **Cibersegurança**, com foco em **Blue Team**: defender, monitorar e responder.
+Sou formado em **Ciência da Computação** (Anhembi Morumbi) e **Sistemas de Informação** (Uninove),
+e atualmente curso **Tecnologia e Segurança da Informação** (Uninove).
 
-  <p>
-      Sou desenvolvedor de software com foco em <strong>Java e arquitetura de microserviços</strong>,
-      atuando no desenvolvimento de soluções escaláveis, resilientes e orientadas a negócios.
-      Tenho experiência com <strong>bancos de dados, cloud computing</strong> e boas práticas de engenharia de software.
-  </p>
+### 🎯 Foco atual
 
-  <hr>
+- **SOC**: monitoramento e triagem de alertas
+- **Análise de logs**: identificar padrões e comportamentos suspeitos
+- **Resposta a incidentes**: contenção, investigação e documentação
+- **Automação**: scripts em Python para tarefas repetitivas de TI e segurança
 
-  <h2>🚀 Tecnologias & Ferramentas</h2>
+### 🧰 Tecnologias
 
-  <h3>💻 Backend</h3>
-  <ul>
-      <li>Java (8+, 11, 17)</li>
-      <li>Spring Boot, Spring Cloud</li>
-      <li>APIs RESTful</li>
-      <li>Arquitetura de Microserviços</li>
-      <li>Clean Code & SOLID</li>
-  </ul>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,linux,windows,azure,aws,git,godot&theme=dark" alt="Python, Linux, Windows, Azure, AWS, Git, Godot" />
+</p>
 
-  <h3>🗄️ Bancos de Dados</h3>
-  <ul>
-      <li>PostgreSQL</li>
-      <li>MySQL</li>
-      <li>Oracle</li>
-      <li>MongoDB</li>
-      <li>JPA / Hibernate</li>
-  </ul>
+### 📜 Certificações
 
-  <h3>☁️ Cloud & DevOps</h3>
-  <ul>
-      <li>AWS / Azure / GCP</li>
-      <li>Docker</li>
-      <li>Kubernetes</li>
-      <li>CI/CD</li>
-      <li>Observabilidade (Logs, Métricas, Tracing)</li>
-  </ul>
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft-SC--900-58A6FF?style=for-the-badge&labelColor=161B22" alt="Microsoft SC-900" />
+  <img src="https://img.shields.io/badge/Microsoft-AZ--900-58A6FF?style=for-the-badge&labelColor=161B22" alt="Microsoft AZ-900" />
+  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-58A6FF?style=for-the-badge&labelColor=161B22" alt="AWS Certified Cloud Practitioner" />
+  <img src="https://img.shields.io/badge/AWS-AI_Practitioner-58A6FF?style=for-the-badge&labelColor=161B22" alt="AWS Certified AI Practitioner" />
+  <img src="https://img.shields.io/badge/Cisco-Introdu%C3%A7%C3%A3o_%C3%A0_Ciberseguran%C3%A7a-58A6FF?style=for-the-badge&labelColor=161B22" alt="Cisco Introdução à Cibersegurança" />
+</p>
 
-  <h3>🧪 Qualidade & Boas Práticas</h3>
-  <ul>
-      <li>Testes Unitários e de Integração</li>
-      <li>JUnit / Mockito</li>
-      <li>Versionamento com Git</li>
-      <li>Code Review</li>
-  </ul>
+### 🚀 Projetos em destaque
 
-  <hr>
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Email Phishing Analyzer](https://github.com/Thoks10a/email-phishing-analyzer) | Analisa cabeçalhos, links e anexos de e-mails (.eml) para triagem de phishing em SOC | Python |
 
-  <h2>📌 O que eu faço</h2>
-  <ul>
-      <li>Desenvolvimento de APIs escaláveis e seguras</li>
-      <li>Criação e manutenção de microserviços</li>
-      <li>Integração entre sistemas</li>
-      <li>Modelagem de dados e otimização de performance</li>
-      <li>Atuação em ambientes cloud</li>
-  </ul>
-
-  <hr>
-
-  <hr>
-
-  <p>
-      <em>"Sempre em busca de aprendizado contínuo e soluções simples para problemas complexos."</em>
-  </p>
+### 📊 Estatísticas
 
 <div align="center">
- <!-- <a href="https://www.instagram.com/edu.duduribeiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
-  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/nicholas-silva-8100a2184/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://github.com/Thoks10a"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoks10a&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Linguagens mais usadas" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=Thoks10a&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E&stroke=30363D&locale=pt_BR" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
+
+![Snake animation](https://raw.githubusercontent.com/Thoks10a/Thoks10a/output/github-contribution-grid-snake.svg)
+
 </div>
 
+### 📫 Contato
+
+**Aberto a oportunidades em Cibersegurança.**
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicholas-isola-8100a2184/"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn" /></a>
+  <a href="https://github.com/Thoks10a"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=58A6FF" alt="GitHub" /></a>
+  <a href="mailto:nicholas.isola@hotmail.com"><img src="https://img.shields.io/badge/E--mail-161B22?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="E-mail" /></a>
+</p>
